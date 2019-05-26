@@ -1,2 +1,2 @@
 // Write your code here
-let multiply = ((var1 * var2) = 62)
+let multiply = '((var1 * var2) = 62)'
